@@ -1,0 +1,9 @@
+*.log
+*.pot
+settings_local.py
+*.pyc
+*.db
+*.sqlite
+*.sh
+media/uploads/*
+media/admin/*
